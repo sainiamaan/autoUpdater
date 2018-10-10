@@ -1,0 +1,3 @@
+Fixed Various Issue found in Testing.
+Updated Code base to handle errors.
+Updated log viewer.
